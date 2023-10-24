@@ -15,10 +15,29 @@
 
 O objetivo deste desafio proposto pela Cubos Academy é replicar o website encontrado no figma [`Desafio front academy 3.fig`](https://www.figma.com/file/2RRh9uG0Mjj6p4p6ekVnNp/Cubos-Player?type=design&node-id=1-3&mode=design).
 
-## Como executar o site
+### Como rodar a aplicação :dash:
 
-→ Executar `git clone` do projeto no terminal para clonar o repositório.<br>
-→ Após isso acessar a pasta, ir em pages e abrir a home no seu navegador.<br>
+Pré-requisitos:
+
+- :warning: [Node](https://nodejs.org/en/download/)
+
+No terminal, clone o projeto:
+
+```
+git clone https://github.com/thayanamr/projeto_calculadora.git
+```
+
+Apos isso instale as dependências e bibliotecas:
+
+```
+npm install
+```
+
+E então é só executar o projeto
+
+```
+npm start
+```
 
 ## Páginas do Projeto
 

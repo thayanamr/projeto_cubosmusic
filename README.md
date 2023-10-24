@@ -41,8 +41,6 @@ npm start
 
 ## Páginas do Projeto
 
-→ [Home](#Home)<br>
+→ Home<br>
 
-### Home
-
--![](https://i.imgur.com/kU1nrcS.png)
+![](https://i.imgur.com/kU1nrcS.png)

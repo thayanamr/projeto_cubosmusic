@@ -1,18 +1,21 @@
-![](https://i.imgur.com/xG74tOh.png)
+<p align="center">
+    <img src="./src/assets/readme-header.png">
+</p>
 
-# Aula prática de React - Cubos Player
+<h1 align="center">Desafio | Front-end - Módulo 3</h1>
 
-Essa aula prática consiste em desenvolver um player de músicas, para isso você usará o layout figma que se encontra nesse [link](https://www.figma.com/file/2RRh9uG0Mjj6p4p6ekVnNp/Cubos-Player?node-id=0%3A1).
+<p align="center">
+<img src="https://img.shields.io/badge/react-framework-blue?logo=react"/>
+<img src="https://img.shields.io/badge/vercel-deploy-blue?logo=vercel"/>
+<img src="https://img.shields.io/github/last-commit/thayanamr/projeto_cubosplayer">
+<img src="https://img.shields.io/badge/status-conclu%C3%ADdo-deploy"/>
+<img src="https://img.shields.io/badge/created_by-Thayana_Machado-%23c999af" >
+
+</p>
 
 
-Caso você queira importar o arquivo do figma no seu computador, ele está nessa pasta com o nome `Cubos Player.fig`
 
-
-Os detalhes do que você precisará desenvolver está nos vídeos introdutórios da aula...
-
-
-... mas o layout que você irá encontrar no figma é esse:
-
+O objetivo deste desafio proposto pela Cubos Academy é replicar o website encontrado no figma [`Desafio front academy 2.fig`](https://www.figma.com/file/79R31SMg3mwnd9AWRa3nIF/Desafio-front-academy-md02?node-id=0%3A1&t=LPHOqT9G1QSvmHjY-1).
 ![](https://i.imgur.com/kU1nrcS.png)
 
 ---

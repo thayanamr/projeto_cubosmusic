@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/created_by-Thayana_Machado-%23c999af" >
 
 </p>
+
 ### Descrição do Projeto
 
 O objetivo deste desafio proposto pela Cubos Academy é replicar o website encontrado no figma [`Desafio front academy 3.fig`](https://www.figma.com/file/2RRh9uG0Mjj6p4p6ekVnNp/Cubos-Player?type=design&node-id=1-3&mode=design).
@@ -25,7 +26,7 @@ O objetivo deste desafio proposto pela Cubos Academy é replicar o website encon
 :heavy_check_mark: Ao selecionar a música aparece no canto inferior esquerdo qual musica esta sendo tocada.
 
 
-### Como executar :dash:
+### Como executar
 
 Pré-requisitos:
 
@@ -49,8 +50,6 @@ E então é só executar o projeto
 npm start
 ```
 
-## Páginas do Projeto
-
-→ Home<br>
+### Páginas do Projeto
 
 ![](https://i.imgur.com/kU1nrcS.png)

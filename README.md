@@ -25,6 +25,10 @@ O objetivo deste desafio proposto pela Cubos Academy é replicar o website encon
 
 :heavy_check_mark: Ao selecionar a música aparece no canto inferior esquerdo qual musica esta sendo tocada.
 
+### Deploy da Aplicação 
+
+> Você consegue utilizar o player [clicando aqui](https://projeto-cubosplayer.vercel.app/).
+
 
 ### Como executar
 
